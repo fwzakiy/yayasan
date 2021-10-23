@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Yayasan Bakti Amal Nusantara
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Yayasan Bakti Amal Nusantara menyalurkan bantuan, sedekah, infak, wakaf, dan perbuatan baik lainnya untuk masyarakat luas yang membutuhkannya.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Yayasan Bakti Amal Nusantara
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Yayasan Bakti Amal Nusantara menyalurkan bantuan, sedekah, infak, wakaf, dan perbuatan baik lainnya untuk masyarakat luas yang membutuhkannya.
